@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="162.45769mm"
+   height="137.02707mm"
+   viewBox="0 0 162.45769 137.02707"
+   version="1.1"
+   id="svg257"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs254" />
+  <g
+     id="layer1"
+     transform="translate(-25.484784,-81.800001)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.53466;stroke-dasharray:none;stroke-opacity:1"
+       id="rect540"
+       width="160.91969"
+       height="135.4523"
+       x="26.252113"
+       y="82.567329"
+       ry="0" />
+    <rect
+       style="fill:#ffff00;stroke:#000000;stroke-width:1.4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3333"
+       width="58.64674"
+       height="60.798912"
+       x="39.456524"
+       y="100.79347" />
+    <rect
+       style="fill:#ff0000;stroke:#000000;stroke-width:1.37516;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3337"
+       width="58.713238"
+       height="18.259422"
+       x="39.402451"
+       y="82.546478" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3339"
+       width="69.183861"
+       height="28.158045"
+       x="98.147873"
+       y="94.336739" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.45162;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4793"
+       width="19.907473"
+       height="79.047409"
+       x="167.30919"
+       y="82.567329" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4795"
+       width="11.286808"
+       height="28.15361"
+       x="136.83669"
+       y="94.352638" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.37;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4795-3"
+       width="69.152733"
+       height="11.896626"
+       x="98.164299"
+       y="82.493568" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.42334;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4795-9"
+       width="19.142132"
+       height="39.147678"
+       x="148.15681"
+       y="122.55761" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.39901;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4797"
+       width="49.982693"
+       height="39.045574"
+       x="98.141296"
+       y="122.52114" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.40866;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6977"
+       width="39.447861"
+       height="34.552937"
+       x="26.189114"
+       y="161.64926" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.39796;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8431"
+       width="40.8517"
+       height="17.387905"
+       x="65.681931"
+       y="161.60223" />
+    <rect
+       style="fill:#060a84;fill-opacity:1;stroke:#000000;stroke-width:1.40887;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8433"
+       width="40.840767"
+       height="17.228403"
+       x="65.687393"
+       y="178.95003" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.443;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9887"
+       width="80.618713"
+       height="34.481495"
+       x="106.59891"
+       y="161.65869" />
+    <rect
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1.34215;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10615"
+       width="80.238579"
+       height="21.997377"
+       x="26.349232"
+       y="196.15862" />
+    <rect
+       style="fill:#1a1a1a;fill-opacity:1;stroke:#000000;stroke-width:1.43778;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10617"
+       width="20.851728"
+       height="21.886164"
+       x="106.64568"
+       y="196.162" />
+  </g>
+  <g
+     id="layer2"
+     transform="translate(-25.484784,-81.800001)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Megrim;-inkscape-font-specification:'Megrim, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:0.743;stroke-dasharray:none;stroke-opacity:1"
+       x="112.27174"
+       y="176.83696"
+       id="text11399"><tspan
+         id="tspan11397"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Megrim;-inkscape-font-specification:'Megrim, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:#ffffff;stroke-width:0.743;stroke-dasharray:none;stroke-opacity:1"
+         x="112.27174"
+         y="176.83696">Palindrome</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Megrim;-inkscape-font-specification:'Megrim, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.743;stroke-dasharray:none;stroke-opacity:1"
+       x="131.46196"
+       y="191.91995"
+       id="text11453"><tspan
+         id="tspan11451"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Megrim;-inkscape-font-specification:'Megrim, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.743;stroke-dasharray:none;stroke-opacity:1"
+         x="131.46196"
+         y="191.91995">Checker</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Megrim;-inkscape-font-specification:'Megrim, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.743;stroke-dasharray:none;stroke-opacity:1"
+         x="131.46196"
+         y="207.79495"
+         id="tspan11455" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;font-family:'Yet R';-inkscape-font-specification:'Yet R, Normal';fill:#3c284a;stroke-width:6.067"
+       x="99.276451"
+       y="141.80296"
+       id="text432-3"><tspan
+         id="tspan430-5"
+         style="stroke-width:6.067"
+         x="99.276451"
+         y="141.80296">rattat</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;font-family:'Yet R';-inkscape-font-specification:'Yet R, Normal';fill:#3c284a;stroke-width:6.067"
+       x="45.91304"
+       y="141.86414"
+       id="text432"><tspan
+         id="tspan430"
+         style="stroke-width:6.067"
+         x="45.91304"
+         y="141.86414">Tattar</tspan></text>
+  </g>
+</svg>

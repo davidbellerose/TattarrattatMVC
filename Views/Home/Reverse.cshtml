@@ -1,0 +1,59 @@
+﻿@model TattarrattatMVC.Models.Palindrome
+
+
+<div class="container col-xxl-8 px-4 py-5 mt-5">
+    <div class="row gy-2 h-100 row-cols-md-2 row-cols-1">
+        <div class="col">
+            <h1 class="display-5 fw-bold 1h-1 mb-3">
+                TATTARRATTAT: A Coding Project
+            </h1>
+            <h4 class="lead">
+                An ASP.NET C# coding exercise that checks if a word is a palindrome
+            </h4>
+            <p>
+                A palindrome is a word, phrase, or sequence that reads the same both
+                backwards and forwards. This app will check to see if the text entered is a palindrome.
+            </p>
+            <p>
+                The word "tattarrattat" is the longest palindrome in the english dictionary.
+                It means "a knock at the door", and comes from the novel "Ulysses" by James Joyce.
+            </p>
+            <ul>
+                <li>Enter a word or any series of characters in the "Enter A String" field.</li>
+                <li>Click on the "Check It" button.</li>
+                <li>The result will tell you if it is a palindrome or not.</li>
+                <li>Spaces and special characters will be ignored.</li>
+                <li>You must enter at least two characters.</li>
+            </ul>
+        </div>
+
+        <div class="col">
+            <div>
+                <h5>Enter a word or phrase.</h5>
+                @*Form goes here*@
+                <form class="row gy-2 gx-3" asp-action="Reverse" asp-controller="Home" method="post">
+                    <div class="col">
+                        <input asp-for="InputWord" class="form-control mb-3 mt-2" value="@Model.InputWord" placeholder="type a word or phrase" aria-label="Enter a string." />
+                    </div>
+
+                    <div class="col-12 d-flex align-items-start justify-content-start">
+                        <button id="btnSubmit" type="submit" class="btn btn-primary">
+                            Palindrome Check
+                        </button>
+                    </div>
+                </form>
+
+
+                <h5 class="mt-5 border-bottom border-2">Results</h5>
+                <div class="col alert alert-primary">
+                    <p class="">@Html.Raw(@Model.RevWord)</p>
+                    <p id="results">
+                        @Html.Raw(@Model.Message)
+                    </p>
+                </div>
+
+                <h5 id="codeLink"></h5>
+            </div>
+        </div>
+    </div>
+</div>
