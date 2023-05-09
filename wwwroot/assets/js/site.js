@@ -1,14 +1,14 @@
 ﻿
 
-document.getElementById("btnSubmit").addEventListener("click", showLink);
+//document.getElementById("btnSubmit").addEventListener("click", showLink);
 
 
-function showLink() {
-    let codeLink = document.getElementById("codeLink");
-    //alert("hello");
-    setTimeout(function () { codeLink.innerHTML = '<a href="code.html">See The Code</a>'; }, 3000);
+//function showLink() {
+//    let codeLink = document.getElementById("codeLink");
+//    //alert("hello");
+//    setTimeout(function () { codeLink.innerHTML = '<a href="code.html">See The Code</a>'; }, 3000);
     
-}
+//}
 
 
 //function showLink() {

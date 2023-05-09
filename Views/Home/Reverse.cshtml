@@ -33,12 +33,12 @@
                 @*Form goes here*@
                 <form class="row gy-2 gx-3" asp-action="Reverse" asp-controller="Home" method="post">
                     <div class="col">
-                        <input asp-for="InputWord" class="form-control mb-3 mt-2" value="@Model.InputWord" placeholder="type a word or phrase" aria-label="Enter a string." />
+                        <input asp-for="InputWord" class="form-control mb-3 mt-2" value="@Model.InputWord" placeholder="type a word or phrase" aria-label="Enter a string." required/>
                     </div>
 
                     <div class="col-12 d-flex align-items-start justify-content-start">
                         <button id="btnSubmit" type="submit" class="btn btn-primary">
-                            Palindrome Check
+                            Check It!
                         </button>
                     </div>
                 </form>
@@ -57,3 +57,17 @@
         </div>
     </div>
 </div>
+
+@section scripts{
+    <script>
+        document.getElementById("btnSubmit").addEventListener("click", showLink);
+
+
+        function showLink() {
+            let codeLink = document.getElementById("codeLink");
+            //alert("hello");
+            setTimeout(function () { codeLink.innerHTML = '<a href="code.html">See The Code</a>'; }, 3000);
+
+        }
+    </script>
+}
